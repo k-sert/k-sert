@@ -1,4 +1,4 @@
-# Hi, I'm k-sert 👋
+# Hi, I'm Kağan 👋
 
 I'm a Master's student in Artificial Intelligence at the University of Amsterdam, interested in understanding and developing intelligent systems through both research and practical applications.
 
